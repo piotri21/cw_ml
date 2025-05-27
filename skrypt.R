@@ -9,3 +9,5 @@ ggplot(mtcars, aes(disp, mpg)) +
   geom_point() +
   geom_smooth() +
   theme_bw()
+
+#komentarz lorem ipsum
