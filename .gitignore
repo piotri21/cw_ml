@@ -49,8 +49,11 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-#ignore quarto files
+# ignore quarto files
 /.quarto/
 
-#html files
+# html files
 *.html
+
+# ignore cache qmd
+README_cache/
