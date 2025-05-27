@@ -51,3 +51,6 @@ rsconnect/
 
 #ignore quarto files
 /.quarto/
+
+#html files
+*.html

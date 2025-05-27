@@ -1,7 +1,9 @@
 ---
 title: "quarto_file"
-format: html
-editor: visual
+format: 
+  html:
+    self-contained: true
+    embed-resources: true
 ---
 
 ## Quarto
