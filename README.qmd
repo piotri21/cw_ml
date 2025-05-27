@@ -16,7 +16,7 @@ Repozytorium ćwiczeń z projektów ML wykonywanych zgodnie z filozofią tidymod
 * cache - przyspiesza renderowanie dokumentów
 * qmd -> md (format: gfm)
 
-##commit pull push
+## commit pull push
 
 
 ## branch
